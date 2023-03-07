@@ -33,6 +33,7 @@ ___
 - **Blender** - Basic
 - **C / C# / C++** - Beginner
 ___
+
 ## **Code example:**
 
 ***Task: An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.***
@@ -50,7 +51,7 @@ ___
     }
 ___
 
-**Languages:**
+# **Languages:**
 - **Russian** - Native
 - **Ukrainian** - Native
 - **English** - Intermediate (Upper-Intermediate in progress)
