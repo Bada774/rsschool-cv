@@ -5,14 +5,14 @@
 # **Vladyslav Karelin**
 
 ## **Novice programmer**
-___
 
 ### **Contacts:**
 
 Phone: +380950346606  
 E-Mail: vladislavy.karelin@gmail.com  
 Telegram: [@Bada774](https://t.me/Bada774)  
-Discord: [[LVPD] Vladimir_Vasilevich [1]#3899](https://discord.com/users/360111380059389964/)  
+Discord: [[LVPD] Vladimir_Vasilevich [1]#3899](https://discord.com/users/360111380059389964/)
+
 ___
 
 ## **Biography**
