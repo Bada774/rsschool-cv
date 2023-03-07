@@ -56,6 +56,5 @@ ___
 - **Russian** - Native
 - **Ukrainian** - Native
 - **English** - Intermediate (Upper-Intermediate in progress)
-![English Certificate - First part](/Certificate(1).jpg)
-![English Certificate - Second part](/Certificate(2).jpg)
-
+![English Certificate - First part](/certificate1.jpg)
+![English Certificate - Second part](/certificate2.jpg)
